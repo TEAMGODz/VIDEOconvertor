@@ -52,7 +52,7 @@
         },
         "MONGODB_URI": {
             "description": "Your mongodb url here.",
-            "value": ""
+            "value": "mongodb+srv://jjjkman45:PPHPx1jqsdoJ0PFA@cluster0.rfdmbaa.mongodb.net/?retryWrites=true&w=majority"
         },
         "FORCESUB": {
             "description": "Channel id to which u want user be force subcribed.(Should be public)",
