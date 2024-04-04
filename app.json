@@ -14,19 +14,19 @@
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
-            "value": ""
+            "value": "5ffb5bdf794a3b583aed1e1b2f7d3e5c"
         },
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
-            "value": ""
+            "value": "24564286"
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "6704948881:AAE0osXqhItETUDmFu9fn65p43yHCMNylf4"
         },
         "AUTH_USERS": {
             "description": "Bot owner's UserID.",
-            "value": ""
+            "value": "6230236721"
         },
         "HEROKU_API": {
             "description": "Your heroku app name(optional, add only if you want to restart directly from tg.",
@@ -40,15 +40,15 @@
         },
         "LOG_CHANNEL": {
             "description": "Log channel username, without using '@'.",
-            "value": ""
+            "value": "Logsofvideos"
         },
         "LOG_ID": {
             "description": "Log channel `ID` (Should be Public)",
-            "value": ""
+            "value": "-1002145672396"
         },
         "ACCESS_CHANNEL": {
             "description": "Private group id to spy users.(Should be public group)",
-            "value": ""
+            "value": "-1002097573734"
         },
         "MONGODB_URI": {
             "description": "Your mongodb url here.",
@@ -56,15 +56,15 @@
         },
         "FORCESUB": {
             "description": "Channel id to which u want user be force subcribed.(Should be public)",
-            "value": ""
+            "value": "-1002058908014"
         },
         "FORCESUB_UN": {
             "description": "Forcesub channel's username.",
-            "value": ""
+            "value": "@Nigga_Bots"
         },
         "BOT_UN": {
             "description": "Username of your bot.",
-            "value": ""
+            "value": "@VideoConverterobot"
         }
     },
     "buildpacks": [
